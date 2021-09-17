@@ -1,0 +1,146 @@
+body {
+  color: #40514E;
+  margin: 0px;
+  text-align: center;
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 150%;
+
+}
+p{
+  line-height: 2;
+}
+
+h1 {
+  font-size: 5.625rem;
+  margin: 50px auto 0px auto;
+  font-family: 'Sedgwick Ave Display', cursive;
+}
+
+h2 {
+  font-size: 2.5rem;
+  font-family: 'Architects Daughter', cursive;
+  padding-bottom: 10px;
+}
+
+h3 {
+  font-family: 'Architects Daughter', cursive;
+}
+
+.Top-container {
+  background-color: #F0E5CF;
+  position: relative;
+  padding-top: 100px;
+}
+
+.middle-container{
+  margin: 100px auto 100px auto;
+}
+
+.Bottom-container {}
+
+.Eng {
+  text-decoration: underline;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 50px;
+}
+.skill-row{
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+
+}
+.skill-1{
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+.skill-2{
+  width: 25%;
+  float: right;
+  margin-right: 30px;
+}
+hr{
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 4px;
+  height: 0px;
+  width: 4%;
+  margin: 100px auto;
+}
+.profile{
+  line-height: 2;
+}
+.bottom-container{
+  background-color: #F0E5CF;
+  padding: 50px 0 20px;
+}
+.intro{
+  width: 30%;
+  margin: auto;
+}
+a:hover{
+  color: #6F69AC;
+}
+a{
+  color: black;
+    font-family: 'Architects Daughter', cursive;
+    margin: 10px 20px;
+    text-decoration: none;
+}
+.copyright{
+  color: #6F69AC;
+  padding: 2opx;
+}
+.contact-message{
+  width: 40%;
+  margin: 40px auto 40px auto;
+}
+
+: -o-linear-gradient(top, #3D94F6, #BDC6D4);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #BDC6D4);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   text-decoration: none btn {
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -moz-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -ms-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -o-linear-gradient(top, #3D94F6, #1E62D0);
+   background-image: -webkit-gradient(to bottom, #3D94F6, #1E62D0);
+   -webkit-border-radius: 20px;
+   -moz-border-radius: 20px;
+   border-radius: 20px;
+   color: #FFFFFF;
+     font-family: 'Architects Daughter', cursive;
+   font-size: 29px;
+   font-weight: 900;
+   padding: 16px;
+   -webkit-box-shadow: 1px 1px 20px 0 #000000;
+   -moz-box-shadow: 1px 1px 20px 0 #000000;
+   box-shadow: 1px 1px 20px 0 #000000;
+   text-shadow: 1px 1px 20px #0059A0;
+   border: solid #337FED 1px;
+   text-decoration: none;
+   display: inline-block;
+   cursor: pointer;
+   text-align: center;
+}
+
+.btn:hover {
+   border: solid #337FED 1px;
+   background: #3D94F6;
+   background-image: -webkit-linear-gradient(top, #3D94F6, #BDC6D4);
+   background-image: -moz-linear-gradient(top, #3D94F6, #BDC6D4);
+   background-image: -ms-linear-gradient(top, #3D94F6, #BDC6D4);
+   background-image
+}
